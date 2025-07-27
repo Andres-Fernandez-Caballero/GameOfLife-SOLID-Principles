@@ -75,5 +75,5 @@ docs/
 
 ## Créditos
 
-Desarrollado por [Tu Nombre]  
+Desarrollado por Andres Fernandez 
 Inspirado en el Juego de la Vida de John Conway.
